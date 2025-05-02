@@ -20,9 +20,9 @@ The input will consist of images which will either be real or AI generated.
 
 Prediction about whether the image is real or AI generated.
 
-**Model used:**
+**Models used:**
 
-A custom CNN model is created consisting of convolutional, batch normalization, dropout and max pooling layers.
+A custom CNN model, ResNet Model and Vision Transformer Model is created consisting of convolutional, batch normalization, dropout and max pooling layers.
 
 **Team 130**
 
